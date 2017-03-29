@@ -1,6 +1,13 @@
 # raunch-firmware - Open Source Firmware for the Fleshlight Launch
 
-The Fleshlight launch 
+The Fleshlight Launch comes with some basic features. However, the
+firmware loading process is known, and the firmware is publically
+distributed and unencrypted. Time to make it better!
+
+This repository will contain annotations for unwinding the
+disassembled firmware, as well as new firmware for implementing
+features like on-board effects, better positional feedback, and
+whatever other stupid stuff we can come up with.
 
 # Retreiving The Stock Firmware
 
